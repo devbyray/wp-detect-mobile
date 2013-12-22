@@ -1,0 +1,11 @@
+.wp_md_device_report {
+	display: block;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #ccc;
+	font-size: 12px;
+	padding: 10px;
+	color: black;
+}
